@@ -28,7 +28,7 @@ Password: 12345678
 
 ## 📦 Tech Stack
 
-**Frontend:** React 19, TypeScript, Tailwind CSS, Axios, React Router  
+**Frontend:** React 19, TypeScript, Tailwind CSS v4, Axios, React Router  
 **Backend:** Express, TypeScript, JWT, bcryptjs  
 **Storage:** In-memory (arrays)
 
